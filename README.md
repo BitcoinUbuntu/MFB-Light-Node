@@ -9,7 +9,8 @@ Bitcoin-only education and onboarding initiative.
 
 ## 🏆 Recent Achievements
 - Contributor to <a href="https://github.com/MyFirstBitcoin/Light-Node-Directory/tree/main/Kenya%20--%20The%20Core">The Core's</a> online presentation of My First Bitcoin's diploma course.
-- Contributor to <a href="https://github.com/MyFirstBitcoin/Light-Node-Directory/tree/main/Nigeria%20--%20Bitcoin%20Africa%20Story">Bitcoin Africa Story's</a> online presentation of My First Bitcoin's diploma course.
+- Guest tutor for <a href="https://github.com/MyFirstBitcoin/Light-Node-Directory/tree/main/Nigeria%20--%20Bitcoin%20Africa%20Story">Bitcoin Africa Story's</a> online presentation of My First Bitcoin's diploma course.
+- Guest tutor for <a href="https://github.com/MyFirstBitcoin/Light-Node-Directory/tree/main/Malawi%20--%20Bitcoin%20Boma%20Coalition">Bitcoin Boma's</a> online presentation of My First Bitcoin's diploma course.
 - Completed sixth cohort as volunteer tutor with <a href="https://github.com/MyFirstBitcoin/Light-Node-Directory/tree/main/Kenya%20--%20The%20Core">The Core</a>.
 - Completed our first independently run online presentation of the MFB Bitcoin Diploma course.
 - Celebrated 2 years as host of <a href="https://x.com/OrangeSunSpaces">The Orange Sun</a> and Bitcoin in Africa monthly spaces.
